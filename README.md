@@ -1,3 +1,3 @@
 # Bright_number
-![Screenshot](/src/Workspace 1_006.png)
+![Screenshot](https://github.com/OsamaMuharram/Bright_number/blob/master/src/Workspace%201_006.png)
 ![Screenshot](screenshot.jpeg)
