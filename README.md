@@ -1,3 +1,3 @@
 # Bright_number
-![Screenshot](src/osama@osama-pc ~_008.png)
+![Screenshot](src/Workspace 1_006.png)
 ![Screenshot](screenshot.jpeg)
